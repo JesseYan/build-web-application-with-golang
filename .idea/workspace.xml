@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43b41f29-e5a1-44db-bd76-d395b84931f6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zh/01.0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zh/01.1.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/01.2.md" afterPath="$PROJECT_DIR$/zh/01.2 GOPATH 与工作空间.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/01.3.md" afterPath="$PROJECT_DIR$/zh/01.3 Go 命令.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/01.4.md" afterPath="$PROJECT_DIR$/zh/01.4 Go开发工具.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/01.5.md" afterPath="$PROJECT_DIR$/zh/01.5 小结.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.0.md" afterPath="$PROJECT_DIR$/zh/02.0 Go语言基础.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.1.md" afterPath="$PROJECT_DIR$/zh/02.1 你好，Go.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.2.md" afterPath="$PROJECT_DIR$/zh/02.2 Go基础.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.3.md" afterPath="$PROJECT_DIR$/zh/02.3 流程和函数.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.4.md" afterPath="$PROJECT_DIR$/zh/02.4 struct.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.5.md" afterPath="$PROJECT_DIR$/zh/02.5 面向对象.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.6.md" afterPath="$PROJECT_DIR$/zh/02.6 interface.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.7.md" afterPath="$PROJECT_DIR$/zh/02.7 并发.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/02.8.md" afterPath="$PROJECT_DIR$/zh/02.8 小结.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.0.md" afterPath="$PROJECT_DIR$/zh/03.0 Web基础 .md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.1.md" afterPath="$PROJECT_DIR$/zh/03.1 web工作方式.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.2.md" afterPath="$PROJECT_DIR$/zh/03.2 Go搭建一个简单的web服务.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.3.md" afterPath="$PROJECT_DIR$/zh/03.3 Go如何使得web工作.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.4.md" afterPath="$PROJECT_DIR$/zh/03.4 Go的http包详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/03.5.md" afterPath="$PROJECT_DIR$/zh/03.5 小结.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/04.0.md" afterPath="$PROJECT_DIR$/zh/04.0 表单.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/05.0.md" afterPath="$PROJECT_DIR$/zh/05.0 访问数据库.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/06.0.md" afterPath="$PROJECT_DIR$/zh/06.0 session和数据存储.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.0.md" afterPath="$PROJECT_DIR$/zh/07.0 文本文件处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.1.md" afterPath="$PROJECT_DIR$/zh/07.1 XML处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.2.md" afterPath="$PROJECT_DIR$/zh/07.2 JSON处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.3.md" afterPath="$PROJECT_DIR$/zh/07.3 正则处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.4.md" afterPath="$PROJECT_DIR$/zh/07.4 模板处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.5.md" afterPath="$PROJECT_DIR$/zh/07.5 文件操作.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.6.md" afterPath="$PROJECT_DIR$/zh/07.6 字符串处理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/07.7.md" afterPath="$PROJECT_DIR$/zh/07.7 小结.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/08.0.md" afterPath="$PROJECT_DIR$/zh/08.0 Web服务 .md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/09.0.md" afterPath="$PROJECT_DIR$/zh/09.0 安全与加密.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/10.0.md" afterPath="$PROJECT_DIR$/zh/10.0 国际化和本地化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/11.0.md" afterPath="$PROJECT_DIR$/zh/11.0 错误处理，调试和测试.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/12.0.md" afterPath="$PROJECT_DIR$/zh/12.0 部署与维护.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/13.0.md" afterPath="$PROJECT_DIR$/zh/13.0 如何设计一个Web框架　.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/zh/14.0.md" afterPath="$PROJECT_DIR$/zh/14.0 扩展Web框架.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zh/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="24">
+                <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.0 GO环境配置.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zh/01.0 GO环境配置.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1385" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="build-web-application-with-golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build-web-application-with-golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="build-web-application-with-golang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="build-web-application-with-golang" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43b41f29-e5a1-44db-bd76-d395b84931f6" name="Default" comment="" />
+      <created>1519887819955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519887819955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1385" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24944155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="MaxCompute Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-418">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zh/01.0 GO环境配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
